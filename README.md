@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey, I'm Sameer Zaheer Bhatti!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<!--
-**SAMEERBHATTI4065/SAMEERBHATTI4065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Full Stack Developer | Django Specialist | Python Enthusiast 🚀</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/SAMEERBHATTI4065?style=social)
+  ![Visitors](https://komarev.com/ghpvc/?username=SAMEERBHATTI4065&color=blueviolet)
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+```python
+class SameerBhatti:
+    def __init__(self):
+        self.name = "Sameer Zaheer Bhatti"
+        self.role = "Full Stack Developer"
+        self.language = "Python"
+        self.framework = "Django"
+        self.location = "Lahore, Pakistan"
+        
+    def get_passions(self):
+        return ["Web Development", "Django", "Python", "Problem Solving"]
+        
+    def say_hello(self):
+        return "Building amazing web applications with Django! 🚀"
+
+me = SameerBhatti()
+print(me.say_hello())
