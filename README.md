@@ -1,19 +1,19 @@
-<!-- ====== Banner Section ====== -->
+<!-- ====== Responsive Banner Section ====== -->
 <div align="center">
 
-  <!-- Banner Background with Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" style="border-radius:12px; object-fit:cover;" />
+  <!-- Responsive Coding Banner (change GIF if you want) -->
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Data Science Banner" style="max-width:80%; border-radius:14px; box-shadow:0 6px 25px rgba(0,0,0,0.4);" />
 
-  <!-- Overlay Title -->
+  <!-- Gradient Title -->
   <h1 align="center">
-    <span style="font-size:40px; font-weight:bold; background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip:text; color:transparent;">
-      Hey, I'm SAMEER BHATTI 💻
+    <span style="font-size:36px; font-weight:bold; background: linear-gradient(90deg,#ff9966,#ff5e62); -webkit-background-clip:text; color:transparent;">
+      Hey, I'm SAMEER BHATTI 🚀
     </span>
   </h1>
 
   <!-- Typing Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&width=600&lines=Data+Scientist+%7C+ML+Engineer;Building+Scalable+ML+Pipelines;Automating+Data+Ops;Turning+Raw+Data+into+Insights" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF6F61&width=600&lines=Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Decisions;Automating+AI+Workflows;Deep+Learning+%7C+Data+Pipelines" />
   </p>
 
 </div>
@@ -21,13 +21,8 @@
 ---
 
 ## 👨‍💻 About Me
-Hi, I'm **Sameer Bhatti** — A passionate **Data Scientist & Machine Learning Engineer** from Pakistan.  
-I love working on **ML pipelines, data visualization, deep learning, and AI automation tools**.
-
-- 🔭 Currently working on: NLP & Data Engineering projects  
-- 🌱 Learning: Advanced Deep Learning (PyTorch, TensorFlow)  
-- 💬 Ask me about: Python, ML, Data Science, APIs, Dashboards  
-- ⚡ Fun fact: "Messy data is my playground."  
+I’m **Sameer Bhatti** — A passionate **Data Scientist & Machine Learning Engineer**.  
+I design **ML models, automate pipelines, and build dashboards** that make complex data simple and useful.
 
 ---
 
@@ -38,9 +33,7 @@ I love working on **ML pipelines, data visualization, deep learning, and AI auto
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
 ---
 
@@ -55,8 +48,8 @@ I love working on **ML pipelines, data visualization, deep learning, and AI auto
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMEERBHATTI4065&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMEERBHATTI4065&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMEERBHATTI4065&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMEERBHATTI4065&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -65,5 +58,3 @@ I love working on **ML pipelines, data visualization, deep learning, and AI auto
 - 💼 LinkedIn: [Your LinkedIn](#)  
 - 🐦 Twitter: [Your Twitter](#)  
 - 📧 Email: your.email@example.com  
-
----
