@@ -3,7 +3,7 @@
 
   <!-- Banner Background with Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       width="80%" height="300px" 
+       width="50%" height="400px" 
        style="border-radius:12px; object-fit:cover;" />
 
   <!-- Overlay Title -->
