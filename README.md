@@ -1,35 +1,5 @@
 <!-- ====== Banner Section ====== -->
 <div align="center">
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Engineer;Building+Scalable+ML+Pipelines;Automating+Data+Ops;Turning+Raw+Data+into+Insights" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       width="50%" height="400px" 
-       style="border-radius:12px; object-fit:cover;" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <!-- Banner Background with Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        width="50%" height="400px" 
