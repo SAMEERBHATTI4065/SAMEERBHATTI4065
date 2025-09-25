@@ -1,3 +1,10 @@
+ <!-- Overlay Title -->
+  <h1 align="center">
+    <span style="font-size:38px; font-weight:bold; background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip:text; color:transparent;">
+      Hey, I'm SAMEER BHATTI 💻
+    </span>
+  </h1>
+
 <!-- ====== Banner Section ====== -->
 <div align="center">
   <!-- Banner Background with Coding GIF -->
@@ -5,12 +12,6 @@
        width="50%" height="400px" 
        style="border-radius:12px; object-fit:cover;" />
 
-  <!-- Overlay Title -->
-  <h1 align="center">
-    <span style="font-size:38px; font-weight:bold; background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip:text; color:transparent;">
-      Hey, I'm SAMEER BHATTI 💻
-    </span>
-  </h1>
 
   <!-- Typing Animation -->
   <p align="center">
